@@ -57,7 +57,7 @@
   "devDependencies": {
     "@types/debug": "^4.1.12",
     "@types/fs-extra": "^11.0.4",
-    "@types/jest": "^29.5.12",
+    "@types/jest": "^30.0.0",
     "@types/node": "^20.14.11",
     "@types/semver": "^7.5.8",
     "@types/source-map-support": "^0.5.10",
